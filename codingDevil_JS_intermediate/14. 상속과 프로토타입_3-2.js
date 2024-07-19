@@ -30,6 +30,7 @@ Bmw.prototype.stop = function() {
   console.log("STOP!");
 }
 
+console.log(x5);
 console.log(x5.wheels); // 4
 console.log(x5.drive()); // drive...
 console.log(z4.wheels); // 4
